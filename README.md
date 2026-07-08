@@ -5,7 +5,7 @@ A lightweight interactive roadmap for no-degree career tracks, built with HTML, 
 
 ## Contents
 
-- `New Age Skills.html` — main landing page
+- `index.html` — main landing page
 - `styles.css` — visual styling and layout
 - `script.js` — dynamic module rendering and dropdown behavior
 - `.gitignore` — local ignore rules
